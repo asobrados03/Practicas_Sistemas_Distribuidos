@@ -6,7 +6,7 @@ Este repositorio contiene las prácticas realizadas en la asignatura de Sistemas
 
 1. **Práctica 1: Hilos en Java**
    - Implementación de tareas concurrentes utilizando la clase `Thread` de Java.
-   - [Ver código](Practica1-Thread/src)
+   - [Ver código](Practica1-Hilos/src)
    - [Informe](Practica1-Hilos/docs/Practica1-Informe.md)
 
 2. **Práctica 2: Interfaz Runnable en Java**
