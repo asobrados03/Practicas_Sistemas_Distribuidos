@@ -1,2 +1,24 @@
-# Practicas_Sistemas_Distribuidos
-Repositorio de prácticas de laboratorio para la asignatura de Sistemas Distribuidos en el curso académico 2024-2025. Incluye ejemplos y ejercicios sobre la clase Thread, la interfaz Runnable y Web Sockets en Java.
+# Prácticas de Sistemas Distribuidos
+
+Este repositorio contiene las prácticas realizadas en la asignatura de Sistemas Distribuidos.
+
+## Prácticas
+
+1. **Práctica 1: Hilos en Java**
+   - Implementación de tareas concurrentes utilizando la clase `Thread` de Java.
+   - [Ver código](Practica1-Thread/src)
+   - [Informe](Practica1-Hilos/docs/Practica1-Informe.md)
+
+2. **Práctica 2: Interfaz Runnable en Java**
+   - Uso de la interfaz `Runnable` para manejar tareas concurrentes.
+   - [Ver código](Practica2-Runnable/src)
+   - [Informe](Practica2-Runnable/docs/Practica2-Informe.md)
+
+3. **Práctica 3: Web Sockets en Java**
+   - Implementación de un servidor y cliente de Web Sockets en Java.
+   - [Ver código](Practica3-WebSockets/src)
+   - [Informe](Practica3-WebSockets/docs/Practica3-Informe.md)
+
+## Cómo ejecutar
+
+Cada práctica tiene instrucciones específicas en su respectiva carpeta. Asegúrate de seguir las instrucciones para compilar y ejecutar el código.
