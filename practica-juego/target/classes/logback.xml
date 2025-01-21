@@ -1,0 +1,18 @@
+<configuration>
+
+    <!-- Appender para la consola -->
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Logger para la clase ClienteJuego, con nivel DEBUG -->
+    <logger name="es.uva.sockets.ClienteJuego" level="DEBUG"/>
+
+    <!-- Logger raíz para todos los paquetes, con nivel DEBUG -->
+    <root level="DEBUG">
+        <appender-ref ref="CONSOLE"/>
+    </root>
+
+</configuration>
