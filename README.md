@@ -1,6 +1,6 @@
 # Prácticas de Sistemas Distribuidos
 
-Este repositorio contiene las prácticas realizadas en la asignatura de Sistemas Distribuidos.
+Este repositorio contiene las prácticas realizadas en la asignatura de Sistemas Distribuidos. Calificadas con un 8,68/10.
 
 ## Prácticas
 
