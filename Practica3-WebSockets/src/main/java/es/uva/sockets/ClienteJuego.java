@@ -22,7 +22,7 @@ public class ClienteJuego {
     private Socket socket;
     private PrintWriter out;
     private BufferedReader in;
-    private static final java.util.logging.Logger logger = Logger.getLogger(ClienteJuego.class.getName());
+    private static final Logger logger = Logger.getLogger(ClienteJuego.class.getName());
 
     public ClienteJuego(int size) {
         // [OPCIONAL] TODO: Extiende el protocolo de comunicacion para
